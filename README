@@ -1,0 +1,7 @@
+just a lil containerization for pepesilvia.net website. mostly just exists so other things can exist. fun with containers!
+html files go in html
+conf files go in conf
+if it hasnt been spun up yet use run.sh
+to make the pain stop use stop.sh
+if you liked the pain use start.sh
+to delete the pains existense use nuke.sh
