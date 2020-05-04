@@ -5,3 +5,4 @@ if it hasnt been spun up yet use run.sh
 to make the pain stop use stop.sh
 if you liked the pain use start.sh
 to delete the pains existense use nuke.sh
+to get direct access to the pain use shell.sh
